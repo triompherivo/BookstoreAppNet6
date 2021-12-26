@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookstoreApp.Api", "BookstoreApp.Api\BookstoreApp.Api.csproj", "{6B65ED53-22C1-47F8-AD1F-3E1EE721B032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B65ED53-22C1-47F8-AD1F-3E1EE721B032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B65ED53-22C1-47F8-AD1F-3E1EE721B032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B65ED53-22C1-47F8-AD1F-3E1EE721B032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B65ED53-22C1-47F8-AD1F-3E1EE721B032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
