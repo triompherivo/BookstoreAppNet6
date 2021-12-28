@@ -25,7 +25,7 @@ public class WeatherForecastController : ControllerBase
         _logger.LogInformation("Made call to the endpoint");
         try
         {
-            throw new Exception("This is our customizedException");
+            //throw new Exception("This is our customizedException");
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
                 {
                     Date = DateTime.Now.AddDays(index),
